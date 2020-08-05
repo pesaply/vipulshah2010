@@ -14,6 +14,7 @@
   <img align="left" alt="Vipul's Facabook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
+<br/>
 
 - 🔭 I’m currently working at [Backbase](https://www.backbase.com/)
 - 🌱 I’m currently learning Jetpack Compose & Swift UI
